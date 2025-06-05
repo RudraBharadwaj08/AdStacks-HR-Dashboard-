@@ -43,7 +43,27 @@ Whether you’re building internal tools or client-facing SaaS platforms, AdStac
 
 ---
 
+---
+
+## 📞 Contact & 🤝 Contributing
+
+### Contact
+
+Feel free to reach out if you want to collaborate or have questions:
+
+- **Email:** [bharadwajrudra08@gmail.com](mailto:bharadwajrudra08@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/rudra-bharadwaj-ba6117265/](https://www.linkedin.com/in/rudra-bharadwaj-ba6117265/)  
+
+### Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes. Your feedback and help make this project better.
+
+---
+
+
 ## 🏁 Getting Started
+
+
 
 ### 🔧 Prerequisites
 
@@ -61,18 +81,5 @@ flutter run -d chrome
 
 ---
 
-## 📞 Contact & 🤝 Contributing
 
-### Contact
-
-Feel free to reach out if you want to collaborate or have questions:
-
-- **Email:** [bharadwajrudra08@gmail.com](mailto:bharadwajrudra08@gmail.com)  
-- **LinkedIn:** [https://www.linkedin.com/in/rudra-bharadwaj-ba6117265/](https://www.linkedin.com/in/rudra-bharadwaj-ba6117265/)  
-
-### Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes. Your feedback and help make this project better.
-
----
 
