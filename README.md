@@ -21,9 +21,9 @@ AdStacks is a sleek, dark-themed **admin dashboard UI** built with Flutter. Desi
 
 ## 📸 Preview
 
-| Dashboard             | Top Creators Section      | Sidebar Navigation      |
+| Dashboard Section     | Summary Section      | Code-Snippet     |
 |-----------------------|---------------------------|--------------------------|
-| ![Dashboard](Main.png) | ![Creators](screenshots/creators.png) | ![Sidebar](screenshots/sidebar.png) |
+| ![Dashboard](Main.png) | ![Summary](Summary.png) | ![Code](C1.png) |
 
 > 💡 *Dark theme is consistent across all views for a modern and minimal UI experience.*
 
