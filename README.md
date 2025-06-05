@@ -1,6 +1,6 @@
 # 🧭 AdStacks – Dark-Themed Admin Dashboard UI (Flutter)
 
-![AdStacks Banner](https://i.imgur.com/your-banner.png) <!-- Replace with actual banner image if available -->
+
 
 AdStacks is a sleek, dark-themed **admin dashboard UI** built with Flutter. Designed for performance and modern aesthetics, it includes intuitive navigation, data-driven components, and a responsive layout—perfect for enterprise dashboards, internal tools, and SaaS backends.
 
